@@ -19,7 +19,7 @@ The App has a very simple and interactive interface which helps the students sel
 
 
 # Application Link & Future Scope :
-The app is currently in the Alpha testing phase with GNITS institute with a limited no. of users, You can access the app : [YOUR APP LINK HERE](either Github link or Google Play store link of published app or .apk file).
+The app is currently in the Alpha testing phase with C. V. Raman Global University with a limited no. of users, You can access the app : [YOUR APP LINK HERE](either Github link or Google Play store link of published app or .apk file).
 Once the app is fully tested and functional in CV Raman Global University, Bhubaneswar, we plan to talk to neighboring colleges also to propose this app idea and collaborate with them on this service. We aim that by next year most of the colleges in our district will use this application to share notes with their students. 
 
 
